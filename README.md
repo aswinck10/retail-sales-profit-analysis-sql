@@ -42,6 +42,6 @@ Delivery Truck, Express Air and Regular Air all averaged **2.0 days** from order
 4. **Question Express Air spending.** It did not ship orders faster, so check whether its extra cost is worth paying.
 
 ## How to run
-1. Open `retail_sales_analysis.ipynb` in Google Colab.
+1. Open `retail_sales_analysis_2026_` in Google Colab.
 2. Upload `superstore_sales.csv` when the first cell asks for it.
 3. Run each cell from top to bottom.
