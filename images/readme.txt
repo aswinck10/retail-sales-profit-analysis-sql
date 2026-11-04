@@ -1,1 +1,0 @@
-Charts for the README
